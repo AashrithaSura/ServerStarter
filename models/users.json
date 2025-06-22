@@ -1,0 +1,29 @@
+[
+  {
+    "username": "Aashu Admin",
+    "password": "$2b$10$lleTe29b5N2zOrJQLgSmFuFNwZkvBgfDMSwBgk2H1OeEelcX58Qnq",
+    "roles": {
+      "Admin": 5150,
+      "Editor": 1984,
+      "User": 2004
+    },
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkFhc2h1IEFkbWluIiwiaWF0IjoxNzUwNjA0NjAyLCJleHAiOjE3NTA2OTEwMDJ9.9oWO8dqJARw-oPm0CS8OlIe-_l6TBaQWhTP55my_mN8"
+  },
+  {
+    "username": "Aashu Editor",
+    "password": "$2b$10$Jwz5MSP76yR2c0rdBxypbeyDcFsivHnSCJm2Dmmxckw4FrurGtN3q",
+    "roles": {
+      "Editor": 1984,
+      "User": 2004
+    },
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkFhc2h1IEVkaXRvciIsImlhdCI6MTc1MDYwNDQyNiwiZXhwIjoxNzUwNjkwODI2fQ.J4UR3YAuwpkOXh82w9qJrzYVhGh5KLFLV2f77xB305c"
+  },
+  {
+    "username": "Aashu User",
+    "password": "$2b$10$cu2yZxzpJWh3MeuRXD/JuO6v6IftWJMcYE3M8R7l4VQJH2maC1qbC",
+    "roles": {
+      "User": 2004
+    },
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkFhc2h1IFVzZXIiLCJpYXQiOjE3NTA2MDQyNjUsImV4cCI6MTc1MDY5MDY2NX0.WyX8MifNg0d4IUAb1yvPqIDt5CS2INlUtMnWf5GuRBI"
+  }
+]
