@@ -4,7 +4,7 @@ const path = require('path');
 const { handleLogin } = require('../controllers/authcontroller'); 
 
 // Login endpoint
-authRouter.post('/login', handleLogin);
+authRouter.post('/', handleLogin);
 
 // Static file serving
 authRouter.get('/', (req, res) => {

@@ -53,7 +53,7 @@ app.use('/register', registerRouter)
 app.use('/auth', authRouter)
 app.use('/refresh', require('./routes/refreshRouter'))
 app.use('/logout', require('./routes/logoutRouter'))
-app.use('/api/employees', verifyJWT, employeeRouter)
+app.use('/api/employee', verifyJWT, employeeRouter)
 
 app.all(/^\/.*/, (req, res) => {
   res.status(404)
